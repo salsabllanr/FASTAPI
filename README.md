@@ -15,7 +15,7 @@ Sebuah mini-proyek berbasis **FastAPI** yang dapat mengidentifikasi kemungkinan 
 
 - Prediksi jenis tumor
 - Menerima input melalui metode POST
-- Hasil prediksi: '0 untuk Benign(Jinak)', '1 untuk Malignant(Ganas)'
+- Hasil prediksi: 0 untuk Benign(Jinak), 1 untuk Malignant(Ganas)
 
 ## ⚙️ Cara Menjalankan
 
