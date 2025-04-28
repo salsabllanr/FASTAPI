@@ -22,8 +22,8 @@ Sebuah mini-proyek berbasis **FastAPI** yang dapat mengidentifikasi kemungkinan 
 ### 1. Clone Repositori
 
 ```bash
-git clone https://github.com/salsabllanr/FASTAPI/tree/main/cancer.git
-cd cancer
+git clone https://github.com/salsabllanr/FASTAPI.git
+cd FASTAPI
 ```
 
 ### 2. Buat Virtual Environment
